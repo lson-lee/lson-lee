@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 欢迎来到繁大王的github
 
 <!--
-**lson-lee/lson-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** 冲鸭！
 
-Here are some ideas to get you started:
+目前的我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 积极探索
+- 🌱 一步步成长ing
+- 👯 尽量有趣
+- 🤔 对生活不断questioning
+- 💬 积极讨论
+- 😄 乐观对待everything
+- 💃 努力活成一个有趣的灵魂
 -->
