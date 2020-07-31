@@ -15,3 +15,6 @@
 😄 乐观生活
 
 💃 努力活成一个有趣的灵魂
+
+[![lson-lee's github stats](https://github-readme-stats.vercel.app/api?username=lson-lee&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lson-lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
